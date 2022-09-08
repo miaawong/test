@@ -53,10 +53,10 @@ apiVersion: v1
 data:
   ENV_VAR_1: fake
   ENV_VAR_2: faker
-  RO_PASSWORD: ExE_cAvLsK0QaAl468WYtg9sqALg6x1VnK5bK2xa
-  RO_PASSWORD_D: te3bNIpTuX1fwRWZBUdXMuuoLpqGp2BmtstRqgqe
+  RO_PASSWORD: O6kh0gmwDQpIyzn_Plm96CpGlp0oLgdWSCOFc5I6
+  RO_PASSWORD_D: 1QRHNa2n3KqjPLyzSMEUWqdpsGaRWYkATUzvzcJR
   RW_PASSWORD: zFWCJy7EvrZHpzgc8CHtnHoSqq8YqCJloCEnhWaQ
-  RW_PASSWORD_D: 2vFQdQ71ZmpOqTWFEKJNVxiolVuU02JiOrJpSiEW
+  RW_PASSWORD_D: F2GTS5oXpcXBO3ZE_QBio1sNDGY93w41G1Drtb94
 kind: ConfigMap
 metadata:
   annotations:
@@ -665,7 +665,7 @@ metadata:
     component: job
     kots.io/app-slug: qakotsregression
     kots.io/backup: velero
-  name: job-3mooxt
+  name: job-onmx39
 spec:
   backoffLimit: 1
   completions: 1
